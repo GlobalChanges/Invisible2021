@@ -1,0 +1,70 @@
+{
+ "id": "31",
+ "language": "de",
+ "title": "Gottgegeben - Mensch gemacht? Gesellschaftliche Deutungsmuster von Naturkatastrophen und Klimaveränderungen im Anthropozän",
+ "abstract": "Strafe Gottes, Wille der Natur oder eine Folge menschlicher Umweltsünden? Die gesellschaftlichen Deutungen von Naturkatastrophen und Phänomenen des Klimawandels haben sich im Lauf der Jahrhunderte grundlegend gewandelt. Während für die Menschen in der frühen Neuzeit die religiöse Vorstellung der „Strafe Gottes“ und die Idee höherer Mächte die Phänomene von Natur und Klima erklärten, so wurden diese Erklärungsmodelle später von naturwissenschaftlichen Deutungen abgelöst. Doch auch die Reaktionen der Menschen auf Klimaphänomene stehen im direkten Zusammenhang mit den vorherrschenden Deutungsmustern…",
+ "year": 2021,
+ "freidok": "",
+ "doi": "",
+ "pdf2": "",
+ "image": "",
+ "orientation": "landscape",
+ "pdf": "",
+ "thumbnail": "",
+ "icon": "",
+ "authors": [
+   { 
+     "firstname": "Katharina",
+     "name": "Talanow",
+     "email": "katharina.talanow@web.de",
+     "freidok": "",
+     "orcid":
+   }
+ ],
+ "location": {
+   "continent": "Europa (4015701-5)",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "Meer",
+   "latitude":
+   "longitude": 
+ },
+ "period": {
+    "begin": 1500,
+    "end": 2020
+ },
+ "concept": "Diskurs (4012475-7)",
+ "topic": "Klimaänderung (4164199-1)",
+ "subtopic": "Naturgewalt (4231163-9)",
+ "keywords": ["Klimawandel","Deutungsmuster","Erklärungsmodelle"], 
+ "sources": [
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "",
+      "authors": "",
+      "year": 2000,
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+
+
+}

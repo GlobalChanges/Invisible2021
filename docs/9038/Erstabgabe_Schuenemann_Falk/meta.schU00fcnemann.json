@@ -1,0 +1,140 @@
+{
+ "id": "38",
+ "language": "de",
+ "title": "Die institutionalisierte Leugnung des menschengemachten Klimawandels",
+ "abstract": "",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "portrait",
+ "pdf": "Schünemann_Institutionalisierte Klimawandelleugnung",
+ "thumbnail": "Schünemann_Institutionalisierte Klimawandelleugnung_Thumbnail",
+ "authors": [
+   { 
+     "firstname": "Falk",
+     "name": "Schünemann",
+     "email": "falk.schuenemann@saturn.uni-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   } 
+
+ ],
+ "location": {
+   "continent": "Global",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": ,
+   "longitude": 
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "environmental justice",
+ "topic": "climate change denial",
+ "subtopic": "institutionalisation of denialism",
+ "keywords": ["Climate Change","climate change denial","exxon", "conspiracy", "environmental justice"], 
+ "sources": [
+   {
+ @article{Brown.1954,
+ author = {Brown, H., Epstein, S., Lowenstam, H. and McKinney, C. R.},
+ year = {1954},
+ title = {Editorial: The Determination of the Variations and Causes of Variations of the Isotopic Composition of Carbon in Nature: A Proposal to the American Petroleum Institute from the Division of Geological Sciences}
+}
+
+
+@article{Franta.2018,
+ author = {Frante, B.},
+ year = {2018},
+ title = {Early oil industry knowledge of CO2 and global warming},
+ pages = {1024--1026},
+ volume = {8},
+ journal = {Nature Climate Change}
+}
+
+
+@article{Brulle.2019,
+ author = {Brulle, R. J.},
+ date = {2019},
+ title = {Networks of opposition: A Structural Analysis of U.S. Climate Change Countermovement Coalitions 1989-2015},
+ pages = {1--22},
+ volume = {xx},
+ number = {x}
+}
+
+
+@article{Diethelm.McKee.2009,
+ author = {Diethelm, P. and M. McKee},
+ year = {2009},
+ title = {Denialism: what is it and how should scientistes respond?},
+ pages = {2--4},
+ volume = {19},
+ number = {1}
+ journal = {European Journal of Public Health}
+}
+
+@misc{Banerjee, Song, Hasemyer.2015,
+ author = {Banerjee, N., L. Song and D. Hasemyer},
+ year = {2015},
+ title = {Exxon‘s Own Research Confirmed Fossil Fuel‘s Role in Global Warming Decaes Ago},
+ url = {https://insideclimaenews.org/news/16092015/exxons-own-researchconfirmed-fossil-fuels-role-in-global-warming/}
+ urldate = {2021-03-12T22:45:25.932Z}
+
+@article{Supran.Oreskes.2017,
+ author = {Supran, G. and N. Oreskes},
+ year = {2017},
+ title = {Assessing ExxonMobil‘s climate change communications (1977-2014)},
+ pages = {1--18},
+ volume = {12},
+ number = {2017}
+ journal = {Environmental Research Letters}
+}
+
+@book{Dunlap.McRight.2011,
+ author = {Dunlap, R. and A. McRight},
+ year = {2011},
+ title = {Organized Climate Change Denial.},
+ editor = {Dryzek, J., R. Norgaard and D. Schlosberg},
+ booktitle = {The Oxford Handbook of Climate Change and Societ},
+ address = {Oxford},
+ isbn = {9780199566600},
+ doi = {10.1093/oxfordhb/9780199566600.001.0001},
+}
+
+@phdthesis{McKie.2017,
+ author = {Mckie, R.},
+ year = {2017},
+ title = {Rebranding the Climate Change Counter Movement: A Critical Examination of Counter Movement Messaging through a Criminological and Political Economic Lens.},
+ institution = {Northumbria University},
+}
+
+@misc{TheHearthlandInstitute.2015,
+ author = {TheHearthlandInstitute},
+ year = {2015},
+ title = {The Global Warming is Over},
+ url = {https://www.heartland.org/publications-resources/publications/the-globalwarming-crisis-is-over},
+ urldate = {2021-03-12T21:45:25.932Z},
+}
+
+@documentary{Cuveillier.Vasselin.2020,
+ author = {Cuveillier, F. and P. Vasselin},
+ year = {2020},
+ title = {Forschung, Fake und faule Tricks},
+ duration = {96 min},
+ publisher = {arte France},
+}
+
+@misc{Khoo.Ryan.2020,
+ author = {Khoo, M. and M. Ryan},
+ year = {2020},
+ title = {Climate, Clicks, Capitalism, and Conspiracists},
+ url = {https://foe.org/blog/climate-clicks-capitalism-and-conspiracists/},
+ urldate = {2021-03-12T19:45:25.932Z},
+}
+   }
+ ]
+  
+
+
+}

@@ -1,0 +1,37 @@
+{
+ "id": "37",
+ "language": "de",
+ "title": "Ausnahmezustand Duerre: "Die unterschaetzte Naturkatastrophe",
+ "abstract": "",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "",
+ "thumbnail": "",
+ "authors": [
+   { 
+     "firstname": "Karolin",
+     "name": "Rueckle",
+     "email": "karolin.rueckle@online.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Europe",
+   "country": "Germany",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": ,
+   "longitude": 
+ },
+ "period": {
+    "begin": 2003,
+    "end": 2003
+ },
+ "concept": "Vulnerabilitaet und Resilienz",
+ "topic": "Duerre",
+ "subtopic": "2003",
+ "keywords": ["2003","Sommer","Hitze","Trockenheit", "Duerre"], 
+ "sources": 

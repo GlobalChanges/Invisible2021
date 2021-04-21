@@ -1,0 +1,52 @@
+{
+ "id": "32",
+ "language": "de",
+ "title": "Klimainstitutionen & Messnetze -Technologie, Trend oder Einfluss der Extreme"",
+ "abstract": "In den vergangenen Jahrzehnten haben sich Messnetze und Klimainstitutionen, unter anderem in Deutschland, stark vermehrt. Liegt dies an den neuen Technologien, dem sichtbar steigenden Temperaturtrend, oder vielmehr an den zunehmenden Extremwetterereignissen, welche die Menschen bewusster die neuen Klimaveränderungen spüren und sehen lassen?",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "",
+ "thumbnail": "",
+ "icon": "",
+ "authors": [
+   { 
+     "firstname": "Ellen",
+     "name": "Schäffel",
+     "email": "schaeffel.ellen@t-online.de",
+     "freidok":"",
+     "orcid": ""
+   }
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": "",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": ,
+   "longitude": 
+ },
+ "period": {
+    "begin": 1750,
+    "end": 2021
+ },
+ "concept": "Anthropozän",
+ "topic": "Klimainstitutionen",
+ "subtopic": "Klimawandel, Anthropozän, Institutioneller Wandel, Messnetze",
+ "keywords": ["","",""], 
+ "sources": [
+   {
+    {
+      "type": "",
+      "authors": "",
+      "year": "",
+      "title": "",
+      "doi": "",
+      "url": "",
+      "journal": "",
+      "volume": "",
+      "publisher": "",
+      "pages": ""
+   },
+ ]
