@@ -1,0 +1,153 @@
+{
+ "id": "35",
+ "language": "de",
+ "title": "Spaniens Wasserkrise - Wasserdiebstahl und Mondscheinlöcher"",
+ "abstract": "Spanien sieht sich bereits heute den weitreichenden Klimawandelfolgen in Form von Wasserknappheit konfrontiert. Die Wasserkrise ist nicht nur das Resultat schwindender Grundwasservorkommen im Zuge klimawandelbedingter veränderter Wasserkreisläufe, sondern insbesondere das Ergebnis des steigenden Wasserverbrauchs im Agrar- & Tourismussektor. Die steigende, europaübergreifende
+Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in einem steigenden Bedarf nach der Ressource Wasser wider. Dies ist mit weitreichenden Folgen für Landwirt*innen verbunden, die vor dem Hintergrund potentiell schwindender Wettbewerbsfähigkeit zum Teil auch zu illegalen Methoden greifen, um dem Bedarf gerecht zu werden. So wird Wasserdiebstahl zu einem gesamtgesellschaftlichen Problem",
+ "year": 2021,
+ "freidok": "",
+ "orientation": "landscape",
+ "pdf": "",
+ "thumbnail": ",
+ "authors": [
+
+   { 
+     "firstname": "Tamara",
+     "name": "Ziegler",
+     "email": "tamara-ziegler@gmx.de",
+     "freidok":"",
+     "orcid": null
+   }
+ ],
+ "location": {
+   "continent": "Europa",
+   "country": "Spanien",
+   "region": "",
+   "city": "",
+   "landscape": "",
+   "latitude": ,
+   "longitude": 
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Klimawandel im Anthropozän",
+ "topic": "Wasserkrisen und Klimawandel",
+ "subtopic": "Wasserdiebstahl und Mondscheinlöcher",
+ "keywords": ["Wasserkrise","Spanien","Gesellschaftliche Folgen"], 
+"sources": [
+   {
+      "type": "article",
+      "authors": "Julia Macher",
+      "year": 2019,
+      "title": "Wenn das Wasser wegbleibt",
+      "doi": "",
+      "url": "https://www.zeit.de/wirtschaft/2019-12/spanien-pistazien-landwirtschaft-klimawandel-trockenheit-hitze-wassermangel",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "article",
+      "authors": "Thomas Urban",
+      "year": 2017,
+      "title": "Wassermangel in Spanien. Dürres Land",
+      "doi": "",
+      "url": "https://www.sueddeutsche.de/wirtschaft/wassermangel-in-spanien-duerres-land-1.3777459",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+       "type": "article",
+      "authors": "Olaf Zinke",
+      "year": 2020,
+      "title": "Wassermangel und Landwirtschaft Wasser-Diebstahl in der Landwirtschaft – ein globales Problem",
+      "doi": "",
+      "url": "https://www.zeit.de/wirtschaft/2019-12/spanien-pistazien-landwirtschaft-klimawandel-trockenheit-hitze-wassermangel",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+  
+   "type": "article",
+      "authors": "Europäische Umweltagentur",
+      "year": 2018,
+      "title": "WWassernutzung in Europa – Quantität und Qualität stehen vor großen Herausforderungen",
+      "doi": "",
+      "url": "https://www.eea.europa.eu/de/signale/signale-2018/artikel/wassernutzung-in-europa-quantitaet-und",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+       "type": "article",
+      "authors": "Olaf Zinke",
+      "year": 2020,
+      "title": "Wassermangel und Landwirtschaft Wasser-Diebstahl in der Landwirtschaft – ein globales Problem",
+      "doi": "",
+      "url": "https://www.zeit.de/wirtschaft/2019-12/spanien-pistazien-landwirtschaft-klimawandel-trockenheit-hitze-wassermangel",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   }
+ ]
+    "type": "article",
+      "authors": "Carola Frentzen; Emilio Rappold",
+      "year": 2020,
+      "title": "Ein Jahr nach Sturz in Bohrloch. Suche nach Schuldigem an Julens Tod geht weiter",
+      "doi": "",
+      "url": "https://www.zdf.de/nachrichten/panorama/tod-im-spanischen-bohrloch-vor-einem-jahr-starb-der-kleine-julen-102.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": "" 
+  }
+ ]
+       "type": "article",
+      "authors": "Spiegel",
+      "year": 2019,
+      "title": "Ist Julen ein Opfer der "Mondscheinlöcher"?",
+      "doi": "",
+      "url": "https://www.spiegel.de/panorama/todesfall-julen-eine-million-illegale-bohrloecher-in-spanien-a-1250124.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+  }
+ ]
+       "type": "article",
+      "authors": "Susanne Götze",
+      "year": 2017,
+      "title": "Südspanien. Trockene Felder, sterbende Gärten durch den Klimawandel",
+      "doi": "",
+      "url": "https//:www.deutschlandfunk.de/suedspanien-trockene-felder-sterbende-gaerten-durch-den.724.de.html
+dram:article_id=378372",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+
+       "type": "article",
+      "authors": "L. De Stefano, J.M. Fornés, J.A. López-Geta & F. Villarroya",
+      "year": 2015,
+      "title": "Groundwater use in Spain: an overview in light of the EU Water Framework Directive, International Journal of Water Resources Development, 31:4, 640-656",
+      "doi": "10.1080/07900627.2014.938260 ",
+      "url": "https://www.spiegel.de/panorama/todesfall-julen-eine-million-illegale-bohrloecher-in-spanien-a-1250124.html",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+  }
+ ]
+
+}
+
+ 

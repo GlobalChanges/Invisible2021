@@ -1,0 +1,303 @@
+{
+ "id": "36",
+ "language": "de",
+ "title": "Klimawandel in Städten. Urbane Räume als Treiber und vulnerable Systeme zugleich & Anpassungsstrategien als gesellschaftliche Reaktion",
+ "abstract": "Die Folgen des globalen Klimawandels sowie die Vulnerabilität gegenüber diesen Folgen können je nach lokalen Gegebenheiten
+der Städte sehr unterschiedlich ausgeprägt sein. Die unterschiedlichen Facetten der Klimawandelanpassung erwachsen daher aus dem geographischen, 
+sozio-ökonomischem und politischen Kontext der Städte.",
+ "year": 2021,
+ 
+"authors": [
+   { 
+     "firstname": "Lea",
+     "name": "Brockhoff",
+     "email": "leabrockhoff@gmail.com"
+   }
+   { 
+     "firstname": "Teresa",
+     "name": "Ziegler",
+     "email": "teresasophia.ziegler@gmail.com"
+   }
+ ],
+ "location": {
+   "continent": "Europa"
+  
+ },
+ "period": {
+    "begin": 1980,
+    "end": 2021
+ },
+ "concept": "Klimawandel im Anthropozän",
+ "topic": "Klimwandelanpassung",
+ "subtopic": "Urbane Räume",
+ "keywords": ["Klimawandelanpassung","urban","lokal"], 
+ "sources": [
+   {
+      "type": "misc",
+      "authors": "Klimafakten ",
+      "year": o.D.,
+      "title": "Klimawandel: Was er für Städte bedeutet. Kernergebnisse aus dem Fünften Sachstandsbericht des IPCC",
+      "url": "www.klimafakten.de/sites/default/files/kli_ipcc_cities_final.pdf",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "misc",
+      "authors": "Umweltbundesamt",
+      "year": 2015,
+      "title": "Anpassung an den Klimawandel",
+      "url": "www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/anpassung-an-den-klimawandel-0#werkzeuge-der-klimaanpassung",
+      "journal": "",
+      "volume": null,
+      "publisher": "",
+      "pages": ""
+   },
+   {
+      "type": "incollection",
+      "authors": "Beck, S.; Bovet, J.; Baasch, S.; Reiß, P.; Görg, C.",
+      "year": 2011,
+      "title": "Synergien und Konflikte von Strategien und Maßnahmen zur Anpassung an den Klimawandel",
+      "url": "www.umweltbundesamt.de/sites/default/files/medien/461/publikationen/4178.pdf",
+      "volume": null,
+      "publisher": "Umweltbundesamt",
+      "pages": ""
+   },
+   {
+      "type": "misc",
+      "authors": "Umweltbundesamt GmbH Wien",
+      "year": 2016,
+      "title": "Klimawandelanpassung umsetzen. Lebensqualität erhöhen",
+      "url": "www.anpassung.at/ccact/downloads/CC-Act-Handbuch.pdf"
+   },
+   {
+      "type": "misc",
+      "authors": "United Nations",
+      "year": o.D.
+      "title": "Cities and Pollution",
+      "url": "www.un.org/en/climatechange/climate-solutions/cities-pollution"
+     
+   },
+   {
+      "type": "misc",
+      "authors": "Landessanitätsdirektion Wien - Magistratsabteilung 15",
+      "year": 2018
+      "title": "Leitfaden Hitzemaßnahmenplan. Für medizinische und pflegerische Einrichtungen zur Erstellung eigener Hitzemaßnahmenpläne",
+      "url": "www.wien.gv.at/gesundheit/sandirektion/pdf/leitfadenhitzemassnahmenplan.pdf"
+   },
+   {
+      "type": "misc",
+      "authors": "Magistrat der Stadt Wien. Wiener Umweltschutzabteilung - Abteilung 22 ",
+      "year": 2015
+      "title": "Urban Heat Islands Strategieplan Wien",
+      "url": "https://www.wien.gv.at/umweltschutz/raum/pdf/uhi-strategieplan-druck.pdf"
+   },
+   {
+      "type": "misc",
+      "authors": "Stadt Wien",
+      "year": o.D.a
+      "title": "Bevölkerung nach Bezirken 2005 bis 2020",
+      "url": "www.wien.gv.at/statistik/bevoelkerung/tabellen/bevoelkerung-bez-zr.html"
+   },
+   {
+      "type": "misc",
+      "authors": "Stadt Wien",
+      "year": o.D.b
+      "title": "Stadtgebiet - Statistiken",
+      "url": "www.wien.gv.at/statistik/lebensraum/stadtgebiet/"
+      
+   },
+   {
+      "type": "misc",
+      "authors": "Stadt Wien",
+      "year": o.D.c
+      "title": "Initiative “Anpassung an den Klimawandel”",
+      "url": "www.wien.gv.at/umwelt/klimaschutz/initiativen/anpassung-klimawandel.html"
+   },   
+{
+      "type": "misc",
+      "authors": "Stadt Wien",
+      "year": o.J.d
+      "title": "Anpassung an den Klimawandel in Wien",
+      "url": "www.wien.gv.at/umwelt/klimaschutz/anpassung.html"
+   },   
+{
+      "type": "misc",
+      "authors": "Stadt Wien",
+      "year": 2015,
+      "title": "Wiener Hitzeratgeber",
+      "url": "www.wien.gv.at/umwelt/klimaschutz/pdf/hitzeratgeber.pdf"
+   },   
+{
+      "type": "misc",
+      "authors": "Stadt Wien",
+      "year": 2020,
+      "title": "Statistik Wien in Zahlen 2020",
+      "url": "www.wien.gv.at/statistik/pdf/wieninzahlen-poster-2020.pdf"
+   },
+     {
+      "type": "misc",
+      "authors": "Landeshauptstadt München",
+      "year": 2016
+      "title": "Konzept zur Anpassung an die Folgen des Klimawandels in der Landeshauptstadt München",
+      "url": "www.muenchen.de/rathaus/dam/jcr:8eb68d50-5c21-4948-92ae-62fa129ab566/bericht_klwa_10_2016.pdf"
+   },
+ {
+      "type": "misc",
+      "authors": "Landeshauptstadt München",
+      "year": 2020a
+      "title": "Geographische Verhältnisse",
+      "url": "www.muenchen.de/rathaus/Stadtinfos/Statistik/Geografie.html"
+   }, 
+{
+      "type": "misc",
+      "authors": "Landeshauptstadt München",
+      "year": 2020b
+      "title": "München in Zahlen - Interessante Fakten über die Stadt",
+      "url": "www.muenchen.de/sehenswuerdigkeiten/muenchen-in-zahlen.html"
+   }, 
+{
+      "type": "misc",
+      "authors": "Landeshauptstadt München",
+      "year": 2020c
+      "title": "Anpassung an den Klimawandel",
+      "url": "www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Stadtklima/Anpassung_an_Klimawandel.html"
+   }, 
+{
+      "type": "misc",
+      "authors": "Landeshauptstadt München",
+      "year": 2021
+      "title": "Die nachhaltige Stadt - Stadtentwicklung, Freiraum, Klimaschutz",
+      "url": "www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Stadtplanung-und-Bauordnung/Veranstaltungen/Zukunft-findet-Stadt/2021/Programm.html"
+   }, 
+{
+      "type": "misc",
+      "authors": "Referat für Gesundheit und Umwelt der Landeshauptstadt München",
+      "year": 2014
+      "title": "Stadtklimaanalyse. Landeshauptstadt München. Karte 1: Lufttemperatur mittags",
+      "url": "www.muenchen.de/rathaus/dam/jcr:fca69c78-f8b9-4637-8434-8dbad3c1a4c9/Karten_Stadtklimaanalyse_LHM.pdf"
+   }, 
+{
+      "type": "misc",
+      "authors": "Statistisches Amt München",
+      "year": 2019
+      "title": "Gliederung des Stadtgebietes nach Bodennutzungsarten 2018 und 2019",
+      "url": "www.muenchen.de/rathaus/dam/jcr:1c0484e3-e1b9-49de-9363-649362cdbb70/jt200002.pdf"
+ }, 
+{
+      "type": "misc",
+      "authors": "City of Rotterdam",
+      "year": 2008
+      "title": "Rotterdam Climate Proof Adaptation Programme. Connecting Water with Opportunities",
+      "url": "https://sdr.gdos.gov.pl/Documents/Wizyty/Belgia%20i%20Holandia/Program%20adaptacji%20do%20zmian%20klimatu%20w%20Rotterdamie.pdf"
+ },  
+{
+      "type": "misc",
+      "authors": "City of Rotterdam",
+      "year": 2013
+      "title": "Rotterdam. Climate Change Adaptation Strategy",
+      "url": "www.urbanisten.nl/wp/wp-content/uploads/UB_RAS_EN_lr.pdf"
+ }, 
+{
+      "type": "misc",
+      "authors": "C40",
+      "year": 2016
+      "title": "Case Study. C40 Good Practice Guides: Rotterdam - Climate Change Adaptation Strategy",
+      "url": "www.c40.org/case_studies/c40-good-practice-guides-rotterdam-climate-change-adaptation-strategy"
+ },  
+{
+      "type": "misc",
+      "authors": "De Urbanisten",
+      "year": o.D.
+      "title": "Water Square Benthemplein",
+      "url": "www.urbanisten.nl/wp/?portfolio=waterplein-benthemplein"
+ }, 
+{
+      "type": "misc",
+      "authors": "Statista",
+      "year": 2021
+      "title": "Niederlande. Die zehn größten Städte im Jahr 2020",
+      "url": "de.statista.com/statistik/daten/studie/214144/umfrage/groesste-staedte-in-den-niederlanden/"
+ },  
+{
+      "type": "misc",
+      "authors": "100 Resilient Cities",
+      "year": o.D.
+      "title": "Rotterdam Resilience Strategy",
+      "url": "https://resilientcitiesnetwork.org/downloadable_resources/Network/Rotterdam-Resilience-Strategy-English.pdf"
+ }, 
+{
+      "type": "misc",
+      "authors": "Behörde für Umwelt, Klima, Energie und Agrarwirtschaft ",
+      "year": o.D.a
+      "title": "Gründachstrategie Hamburg. Es wird grün auf Hamburgs Dächern",
+      "url": "www.hamburg.de/gruendach-hamburg/4364586/gruendachstrategie-hamburg/"
+ },  
+{
+      "type": "misc",
+      "authors": "Behörde für Umwelt, Klima, Energie und Agrarwirtschaft ",
+      "year": o.D.b
+      "title": "Klimawandel. Klimafolgen-Monitoring in Hamburg",
+      "url": "www.hamburg.de/klimafolgen-monitoring/6639404/klimafolgen-monitoring/"
+ }, 
+{
+      "type": "misc",
+      "authors": "Behörde für Umwelt, Klima, Energie und Agrarwirtschaft ",
+      "year": o.D.c
+      "title": "Klimafolgen-Monitoring. IMPACT-Indikatoren Binnenhochwasserschutz",
+      "url": "www.hamburg.de/klimafolgen-monitoring/8110934/klimafolgen-monitoring-binnenhochwasserschutz/"
+ },  
+{
+      "type": "misc",
+      "authors": "Daschkeit, A; Renken A.L.",
+      "year": 2009
+      "title": "Klimaänderung und Klimafolgen in Hamburg. Fachlicher Orientierungsrahmen",
+      "url": "www.hamburg.de/contentblob/4434742/7c76e9c6509b9ca39cb4f8f3aff20805/data/d-orientierungsrahmen-klimawandel-in-hamburg.pdf"
+ }, 
+{
+      "type": "misc",
+      "authors": "Hamburger Stadtentwässerung AöR (HSE) und Behörde für Umwelt und Energie (BUE)",
+      "year": 2015
+      "title": "Strukturplan Regenwasser 2030. RISA. Zukunftsfähiger Umgang mit Regenwasser in Hamburg",
+      "url": "www.hamburg.de/contentblob/5052102/ce82e43a889d30427957ce0311f78b9d/data/d-risa-strukturplan-regenwasser-2030.pdf"
+ },  
+{
+      "type": "misc",
+      "authors": "Koch, M.; Kohler, M.",
+      "year": 2013
+      "title": "Neue Freiräume für die Planung",
+      "url": "https://repos.hcu-hamburg.de/handle/hcu/407"
+ }, 
+{
+      "type": "misc",
+      "authors": "Kopp, F.",
+      "year": 2008
+      "title": "Der Hamburger Hafen. Gestern, heute und morgen",
+      "url": "www.kuestenexkursion.de/referate/Hamburger_Hafen.htm"
+ }, 
+{
+      "type": "misc",
+      "authors": "Peters, C.",
+      "year": 2015
+      "title": "Hamburg macht Grün. Erfurter Arbeitstage Grüne Infrastruktur",
+      "url": "www.fh-erfurt.de/lgf/fileadmin/LA/Aktuelles/7_Cornelia_Peters_homepage.pdf"
+ }, 
+{
+      "type": "misc",
+      "authors": "Senat Stadt Hamburg",
+      "year": 2013
+      "title": "Aktionsplan Anpassung an den Klimawandel",
+      "url": "www.hamburg.de/contentblob/4357564/e1b7549bfc46806b9cafa9d89963bd62/data/d-20-8492-aktionsplan-anpassung-an-den-klimawandel.pdf"
+ },  
+{
+      "type": "misc",
+      "authors": "Stadt Hamburg",
+      "year": 2019
+      "title": "Fakten & Zahlen. Hamburg in Zahlen",
+      "url": "www.hamburg.de/info/3277402/hamburg-in-zahlen/"
+ }
+ ]
+  
+
+
+}
