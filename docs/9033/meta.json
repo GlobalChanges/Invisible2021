@@ -1,13 +1,14 @@
 {
- "id": "33",
+ "id": "9033",
  "language": "de",
  "title": "Soziale Kipppunkte - Balanceakt für die Zukunft?",
  "abstract": "",
  "year": 2021,
  "freidok": "",
  "orientation": "portrait",
- "pdf": "",
- "thumbnail": "",
+ "pdf": "https://globalchanges.github.io/Invisible2021/9033/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9033/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9033/icon.png",
  "authors": [
    { 
      "firstname": "Josephine",
@@ -15,25 +16,24 @@
      "email": "josephinebinder@gmx.de",
      "freidok":"",
      "orcid": ""
-   },
-
+   }
  ],
  "location": {
-   "continent": "Europe",
-   "country": "Germany",
+   "continent": "Europa",
+   "country": "Deutschland",
    "region": "Baden-Württemberg",
    "city": "Freiburg im Breisgau",
-   "landscape": "",
-   "latitude": ,
-   "longitude": 
+   "landscape": "Großstadt",
+   "latitude": 48.0,
+   "longitude": 7.85 
  },
  "period": {
     "begin": 2000,
     "end": 2050
  },
- "concept": "Systemwandel",
- "topic": "Kipppunkte",
- "subtopic": "Soziale Kipppunkte",
+ "concept": "Netzwerkanalyse",
+ "topic": "Klimawandel",
+ "subtopic": "Urbanisierung",
  "keywords": ["Kipppunkte","Klimaneutral","Nachhaltigkeit"], 
 
 
