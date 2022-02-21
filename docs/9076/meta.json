@@ -8,7 +8,7 @@
  "orientation": "portrait",
  "pdf": "https://globalchanges.github.io/Invisible2021/9076/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/Invisible2021/9076/thumbnail.png",
- "i2con": "https://globalchanges.github.io/Invisible2021/9076/icon.png", 
+ "icon": "https://globalchanges.github.io/Invisible2021/9076/icon.png", 
  "authors": [
    { 
      "firstname": "Hannah",
