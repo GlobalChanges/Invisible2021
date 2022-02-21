@@ -1,23 +1,23 @@
 {
- "id": "9036",
+ "id": "9036a",
  "language": "de",
  "title": "Klimawandel in Städten. Urbane Räume als Treiber und vulnerable Systeme zugleich & Anpassungsstrategien als gesellschaftliche Reaktion",
  "abstract": "Die Folgen des globalen Klimawandels sowie die Vulnerabilität gegenüber diesen Folgen können je nach lokalen Gegebenheiten der Städte sehr unterschiedlich ausgeprägt sein. Die unterschiedlichen Facetten der Klimawandelanpassung erwachsen daher aus dem geographischen, sozio-ökonomischem und politischen Kontext der Städte.",
  "year": 2021,
  "orientation": "portrait",
- "pdf": "https://globalchanges.github.io/Invisible2021/9036/poster.pdf",
- "thumbnail": "https://globalchanges.github.io/Invisible2021/9036/thumbnail.png",
- "icon": "https://globalchanges.github.io/Invisible2021/9036/icon.png",
+ "pdf": "https://globalchanges.github.io/Invisible2021/9036a/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9036a/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9036a/icon.png",
  "authors": [
-   { 
-     "firstname": "Lea",
-     "name": "Brockhoff",
-     "email": "leabrockhoff@gmail.com"
-   },
    { 
      "firstname": "Teresa",
      "name": "Ziegler",
      "email": "teresasophia.ziegler@gmail.com"
+   },
+   { 
+     "firstname": "Lea",
+     "name": "Brockhoff",
+     "email": "leabrockhoff@gmail.com"
    }
  ],
  "location": {
