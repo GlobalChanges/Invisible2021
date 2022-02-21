@@ -1,0 +1,30 @@
+{
+   "id":"9029",
+   "language":"de",
+   "title":"Haben die Gletscher der Alpen eine Zukunft? Von den Gletscherschwankungen im Alpenraum bis zum „Snowfarming“ am Morteratschgletscher (CH) und an der Zugspitze (D)",
+   "year":2021,
+   "orientation":"landscape",
+   "authors":[
+      {
+         "firstname":"Julian",
+         "name":"Branz",
+         "email":"julian-branz@web.de"
+      }
+   ],
+   "location":{
+      "continent":"Europa",
+      "country":null,
+      "countries": ["Germany,Austria,Switzerland"],
+      "region":"Alpen",
+      "city":null,
+      "landscape":"Gebirge",
+      "latitude":46.4,
+      "longitude":9.89
+    },
+   "period":{
+      "begin":1950,
+      "end":2021
+   },
+   "concept":"Vulnerabilität & Resilienz",
+   "topic":"Klimawandel"
+}
