@@ -1,14 +1,14 @@
 {
- "id": "62",
+ "id": "9062",
  "language": "de",
  "title": "5 vor 12 - Der Permafrost taut",
  "abstract": "Die Permafrostböden bilden eine wichtige Kohlenstoffsenke. In Zeiten des KLimawandels und der einhergehenden globalen Erwärmung taut der Permafrost allerdings zunehmend tiefer. Dies birgt Schwierigkeiten für das klimatische Gleichgewiht und die Anpassungsfähigkeit der Menschheit.",
  "year": 2021,
  "freidok": "",
  "orientation": "landscape",
- "pdf": "https://globalchanges.github.io/MetaData2021b/62/poster.pdf",
- "thumbnail": "https://globalchanges.github.io/MetaData2021b/62/thumbnail.png",
- "icon": "https://globalchanges.github.io/MetaData2021b/62/icon.png",
+ "pdf": "https://globalchanges.github.io/Invisible2021/9062/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9062/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9062/icon.png",
  "authors": [
    { 
      "firstname": "Paul",
@@ -35,32 +35,7 @@
  "topic": "Klimawandel",
  "subtopic": "Erwärmung",
  "keywords": [], 
- "sources": [
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
-   },
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
-   }
- ]
+ "sources": []
   
 
 
