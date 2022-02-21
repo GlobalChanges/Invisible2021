@@ -19,7 +19,7 @@
    "location":{
       "continent":"Europa",
       "country":null,
-      "countries": ["Germany,Austria,Switzerland"],
+      "countries": ["Deutschland","Österreich","Schweiz"],
       "region":"Alpen",
       "city":null,
       "landscape":"Gebirge",
@@ -30,7 +30,7 @@
       "begin":1950,
       "end":2021
    },
-   "concept":"Vulnerabilität & Resilienz",
+   "concept":"Vulnerabel&Resilienz",
    "topic":"Klimawandel",
    "subtopic":"Erwärmung"
 }
