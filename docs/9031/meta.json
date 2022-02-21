@@ -1,5 +1,5 @@
 {
- "id": "31",
+ "id": "9031",
  "language": "de",
  "title": "Gottgegeben - Mensch gemacht? Gesellschaftliche Deutungsmuster von Naturkatastrophen und Klimaveränderungen im Anthropozän",
  "abstract": "Strafe Gottes, Wille der Natur oder eine Folge menschlicher Umweltsünden? Die gesellschaftlichen Deutungen von Naturkatastrophen und Phänomenen des Klimawandels haben sich im Lauf der Jahrhunderte grundlegend gewandelt. Während für die Menschen in der frühen Neuzeit die religiöse Vorstellung der „Strafe Gottes“ und die Idee höherer Mächte die Phänomene von Natur und Klima erklärten, so wurden diese Erklärungsmodelle später von naturwissenschaftlichen Deutungen abgelöst. Doch auch die Reaktionen der Menschen auf Klimaphänomene stehen im direkten Zusammenhang mit den vorherrschenden Deutungsmustern…",
@@ -9,9 +9,9 @@
  "pdf2": "",
  "image": "",
  "orientation": "landscape",
- "pdf": "",
- "thumbnail": "",
- "icon": "",
+ "pdf": "https://globalchanges.github.io/Invisible2021/9031/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9031/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9031/icon.png",
  "authors": [
    { 
      "firstname": "Katharina",
@@ -22,48 +22,23 @@
    }
  ],
  "location": {
-   "continent": "Europa (4015701-5)",
-   "country": "",
-   "region": "",
-   "city": "",
+   "continent": "Europa",
+   "country": null,
+   "region": null,
+   "city": null,
    "landscape": "Meer",
-   "latitude":
-   "longitude": 
+   "latitude": 50,
+   "longitude": 10
  },
  "period": {
     "begin": 1500,
     "end": 2020
  },
- "concept": "Diskurs (4012475-7)",
- "topic": "Klimaänderung (4164199-1)",
- "subtopic": "Naturgewalt (4231163-9)",
+ "concept": "Diskurs",
+ "topic": "Klimaänderung",
+ "subtopic": "Naturgewalt",
  "keywords": ["Klimawandel","Deutungsmuster","Erklärungsmodelle"], 
- "sources": [
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
-   },
-   {
-      "type": "",
-      "authors": "",
-      "year": 2000,
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": null,
-      "publisher": "",
-      "pages": ""
-   }
- ]
+ "sources": []
   
 
 
