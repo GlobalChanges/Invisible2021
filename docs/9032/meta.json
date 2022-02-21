@@ -1,14 +1,14 @@
 {
- "id": "32",
+ "id": "9032",
  "language": "de",
  "title": "Klimainstitutionen & Messnetze -Technologie, Trend oder Einfluss der Extreme"",
  "abstract": "In den vergangenen Jahrzehnten haben sich Messnetze und Klimainstitutionen, unter anderem in Deutschland, stark vermehrt. Liegt dies an den neuen Technologien, dem sichtbar steigenden Temperaturtrend, oder vielmehr an den zunehmenden Extremwetterereignissen, welche die Menschen bewusster die neuen Klimaveränderungen spüren und sehen lassen?",
  "year": 2021,
  "freidok": "",
  "orientation": "landscape",
- "pdf": "",
- "thumbnail": "",
- "icon": "",
+ "pdf": "https://globalchanges.github.io/Invisible2021/9032/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9032/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9032/icon.png",
  "authors": [
    { 
      "firstname": "Ellen",
@@ -19,34 +19,20 @@
    }
  ],
  "location": {
-   "continent": "Welt",
-   "country": "",
+   "continent": "Europa",
+   "country": "Deutschland",
    "region": "",
    "city": "",
-   "landscape": "",
-   "latitude": ,
-   "longitude": 
+   "landscape": "Atmosphäre",
+   "latitude": 51,
+   "longitude": 11
  },
  "period": {
     "begin": 1750,
     "end": 2021
  },
- "concept": "Anthropozän",
- "topic": "Klimainstitutionen",
- "subtopic": "Klimawandel, Anthropozän, Institutioneller Wandel, Messnetze",
- "keywords": ["","",""], 
- "sources": [
-   {
-    {
-      "type": "",
-      "authors": "",
-      "year": "",
-      "title": "",
-      "doi": "",
-      "url": "",
-      "journal": "",
-      "volume": "",
-      "publisher": "",
-      "pages": ""
-   },
- ]
+ "concept": "Zeitreihen",
+ "topic": "Erwärmung",
+ "subtopic": "Klimawandel",
+ "keywords": [], 
+ "sources": []

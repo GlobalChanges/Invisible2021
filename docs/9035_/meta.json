@@ -1,16 +1,15 @@
 {
- "id": "35",
+ "id": "9035",
  "language": "de",
- "title": "Spaniens Wasserkrise - Wasserdiebstahl und Mondscheinlöcher"",
- "abstract": "Spanien sieht sich bereits heute den weitreichenden Klimawandelfolgen in Form von Wasserknappheit konfrontiert. Die Wasserkrise ist nicht nur das Resultat schwindender Grundwasservorkommen im Zuge klimawandelbedingter veränderter Wasserkreisläufe, sondern insbesondere das Ergebnis des steigenden Wasserverbrauchs im Agrar- & Tourismussektor. Die steigende, europaübergreifende
-Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in einem steigenden Bedarf nach der Ressource Wasser wider. Dies ist mit weitreichenden Folgen für Landwirt*innen verbunden, die vor dem Hintergrund potentiell schwindender Wettbewerbsfähigkeit zum Teil auch zu illegalen Methoden greifen, um dem Bedarf gerecht zu werden. So wird Wasserdiebstahl zu einem gesamtgesellschaftlichen Problem",
+ "title": "Spaniens Wasserkrise - Wasserdiebstahl und Mondscheinlöcher",
+ "abstract": "Spanien sieht sich bereits heute den weitreichenden Klimawandelfolgen in Form von Wasserknappheit konfrontiert. Die Wasserkrise ist nicht nur das Resultat schwindender Grundwasservorkommen im Zuge klimawandelbedingter veränderter Wasserkreisläufe, sondern insbesondere das Ergebnis des steigenden Wasserverbrauchs im Agrar- & Tourismussektor. Die steigende, europaübergreifende Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in einem steigenden Bedarf nach der Ressource Wasser wider. Dies ist mit weitreichenden Folgen für Landwirt*innen verbunden, die vor dem Hintergrund potentiell schwindender Wettbewerbsfähigkeit zum Teil auch zu illegalen Methoden greifen, um dem Bedarf gerecht zu werden. So wird Wasserdiebstahl zu einem gesamtgesellschaftlichen Problem",
  "year": 2021,
  "freidok": "",
  "orientation": "landscape",
- "pdf": "",
- "thumbnail": ",
+ "pdf": "https://globalchanges.github.io/Invisible2021/9035/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9035/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9035/icon.png",
  "authors": [
-
    { 
      "firstname": "Tamara",
      "name": "Ziegler",
@@ -25,16 +24,16 @@ Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in e
    "region": "",
    "city": "",
    "landscape": "",
-   "latitude": ,
-   "longitude": 
+   "latitude": 39.9,
+   "longitude": -1.8
  },
  "period": {
     "begin": 1800,
     "end": 2050
  },
- "concept": "Klimawandel im Anthropozän",
- "topic": "Wasserkrisen und Klimawandel",
- "subtopic": "Wasserdiebstahl und Mondscheinlöcher",
+ "concept": "Footprint",
+ "topic": "Wasser",
+ "subtopic": "Erwärmung",
  "keywords": ["Wasserkrise","Spanien","Gesellschaftliche Folgen"], 
 "sources": [
    {
@@ -60,9 +59,8 @@ Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in e
       "volume": null,
       "publisher": "",
       "pages": ""
-   }
- ]
-       "type": "article",
+   },
+   {  "type": "article",
       "authors": "Olaf Zinke",
       "year": 2020,
       "title": "Wassermangel und Landwirtschaft Wasser-Diebstahl in der Landwirtschaft – ein globales Problem",
@@ -72,10 +70,9 @@ Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in e
       "volume": null,
       "publisher": "",
       "pages": ""
-   }
- ]
-  
-   "type": "article",
+   },
+   {
+      "type": "article",
       "authors": "Europäische Umweltagentur",
       "year": 2018,
       "title": "WWassernutzung in Europa – Quantität und Qualität stehen vor großen Herausforderungen",
@@ -85,9 +82,8 @@ Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in e
       "volume": null,
       "publisher": "",
       "pages": ""
-   }
- ]
-       "type": "article",
+   },
+{     "type": "article",
       "authors": "Olaf Zinke",
       "year": 2020,
       "title": "Wassermangel und Landwirtschaft Wasser-Diebstahl in der Landwirtschaft – ein globales Problem",
@@ -97,9 +93,9 @@ Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in e
       "volume": null,
       "publisher": "",
       "pages": ""
-   }
- ]
-    "type": "article",
+   },
+   {
+     "type": "article",
       "authors": "Carola Frentzen; Emilio Rappold",
       "year": 2020,
       "title": "Ein Jahr nach Sturz in Bohrloch. Suche nach Schuldigem an Julens Tod geht weiter",
@@ -109,33 +105,32 @@ Nachfrage nach spanischen Agrarerzeugnissen spiegelt sich in direkter Weise in e
       "volume": null,
       "publisher": "",
       "pages": "" 
-  }
- ]
-       "type": "article",
+  },
+  {
+      "type": "article",
       "authors": "Spiegel",
       "year": 2019,
-      "title": "Ist Julen ein Opfer der "Mondscheinlöcher"?",
+      "title": "Ist Julen ein Opfer der 'Mondscheinlöcher'?",
       "doi": "",
       "url": "https://www.spiegel.de/panorama/todesfall-julen-eine-million-illegale-bohrloecher-in-spanien-a-1250124.html",
       "journal": "",
       "volume": null,
       "publisher": "",
       "pages": ""
-  }
- ]
-       "type": "article",
+  },
+  {   "type": "article",
       "authors": "Susanne Götze",
       "year": 2017,
       "title": "Südspanien. Trockene Felder, sterbende Gärten durch den Klimawandel",
       "doi": "",
-      "url": "https//:www.deutschlandfunk.de/suedspanien-trockene-felder-sterbende-gaerten-durch-den.724.de.html
-dram:article_id=378372",
+      "url": "https//:www.deutschlandfunk.de/suedspanien-trockene-felder-sterbende-gaerten-durch-den.724.de.html",
       "journal": "",
       "volume": null,
       "publisher": "",
       "pages": ""
-
-       "type": "article",
+  },
+  {
+      "type": "article",
       "authors": "L. De Stefano, J.M. Fornés, J.A. López-Geta & F. Villarroya",
       "year": 2015,
       "title": "Groundwater use in Spain: an overview in light of the EU Water Framework Directive, International Journal of Water Resources Development, 31:4, 640-656",
