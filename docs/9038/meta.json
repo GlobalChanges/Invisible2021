@@ -1,0 +1,44 @@
+{
+ "id": "9038",
+ "language": "de",
+ "title": "Die institutionalisierte Leugnung des menschengemachten Klimawandels",
+ "abstract": "",
+ "year": 2021,
+ "orientation": "landscape",
+ "freidok": null,
+ "pdf": "https://globalchanges.github.io/Invisible2021/9038/poster.pdf",
+ "thumbnail": "https://globalchanges.github.io/Invisible2021/9038/thumbnail.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9038/icon.png", 
+ "authors": [
+   { 
+     "firstname": "Falk",
+     "name": "Schünemann",
+     "email": "falk.schuenemann@saturn.uni-freiburg.de",
+     "freidok":"",
+     "orcid": ""
+   } 
+
+ ],
+ "location": {
+   "continent": "Welt",
+   "country": null,
+   "countries": null,
+   "region": "",
+   "city": "",
+   "landscape":"Atmosphäre",
+   "latitude": -47.0,
+   "longitude": -125.0 
+ },
+ "period": {
+    "begin": 1800,
+    "end": 2050
+ },
+ "concept": "Netzwerkanalyse",
+ "topic": "Klimawandel",
+ "subtopic": "Wirtschaft",
+ "keywords": ["Climate Change","climate change denial","exxon", "conspiracy", "environmental justice"], 
+ "sources": []
+  
+
+
+}
