@@ -2,8 +2,13 @@
    "id":"9029",
    "language":"de",
    "title":"Haben die Gletscher der Alpen eine Zukunft? Von den Gletscherschwankungen im Alpenraum bis zum „Snowfarming“ am Morteratschgletscher (CH) und an der Zugspitze (D)",
+   "abstract":"",
    "year":2021,
    "orientation":"landscape",
+   "freidok": null,
+   "pdf": "https://globalchanges.github.io/Invisible2021/9029/poster.pdf",
+   "thumbnail": "https://globalchanges.github.io/Invisible2021/9029/thumbnail.png",
+   "icon": "https://globalchanges.github.io/Invisible2021/9029/icon.png",   
    "authors":[
       {
          "firstname":"Julian",
@@ -26,5 +31,6 @@
       "end":2021
    },
    "concept":"Vulnerabilität & Resilienz",
-   "topic":"Klimawandel"
+   "topic":"Klimawandel",
+   "subtopic":"Erwärmung"
 }
