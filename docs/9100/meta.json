@@ -8,7 +8,7 @@
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/Invisible2021/9100/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/Invisible2021/9100/thumbnail.png",
- "icon": "https://globalchanges.github.io/Invisible2021/91100/icon.png",
+ "icon": "https://globalchanges.github.io/Invisible2021/9100/icon.png",
  "authors": [
    { 
      "firstname": "Julia",
@@ -24,8 +24,8 @@
    "region": "New York",
    "city": "New York City",
    "landscape": "Großstadt",
-   "latitude": 40.7142700,
-   "longitude": -74.0059700
+   "latitude": 40.8142700,
+   "longitude": -74.1059700
  },
  "period": {
     "begin": 2012,
